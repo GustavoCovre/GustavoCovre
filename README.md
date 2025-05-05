@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/e5/47/84/e54784d2f295508bd0e928394442f49f.jpg"  />
-</div>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
