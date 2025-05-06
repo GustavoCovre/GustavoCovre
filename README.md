@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">My name is Gustavo Covre and I'm studying Systems Analysis and Development.</p>
+<p align="center">My name is Gustavo Covre, and I’m currently studying Systems Analysis and Development. I have a strong interest in cybersecurity and am also expanding my skills in other areas such as web development, including both frontend and backend technologies.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
 ###
