@@ -6,7 +6,10 @@
 
 ###
 
-<p align="center">My name is Gustavo Covre, and I’m currently studying Systems Analysis and Development. I have a strong interest in cybersecurity and am also expanding my skills in other areas such as web development, including both frontend and backend technologies.</p>
+<p align="center">
+  Hi! I'm <strong>Gustavo Covre</strong>, an IT Analyst at <strong>Grupo Tristão</strong> and a Systems Analysis and Development student.
+  I'm currently expanding my skills in <strong>full-stack development</strong>, building both frontend and backend solutions.
+</p>
 
 ###
 
